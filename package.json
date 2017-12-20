@@ -1,0 +1,22 @@
+{
+  "name": "daimakuai.js",
+  "version": "1.0.0",
+  "description": "daimakuai.js",
+  "main": "daimakuai.js",
+  "scripts": {
+    "test": "daimakuai.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daimakuai/daimakuai.js.git"
+  },
+  "keywords": [
+    "daimakuai.js"
+  ],
+  "author": "yt <431910788@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daimakuai/daimakuai.js/issues"
+  },
+  "homepage": "https://github.com/daimakuai/daimakuai.js#readme"
+}
