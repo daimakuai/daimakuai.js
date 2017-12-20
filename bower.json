@@ -1,0 +1,20 @@
+{
+  "name": "daimakuai.js",
+  "authors": [
+    "yt<431910788@qq.com>"
+  ],
+  "description": "daimakuai",
+  "main": "daimakuai.js",
+  "keywords": [
+    "daimakuai"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.daimakuai.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
